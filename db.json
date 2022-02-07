@@ -1,0 +1,6 @@
+{
+    "server_list": "api/list",
+    "server_announce": "api/announce",
+    "tracker_enabled": true,
+    "master_servers": []
+}
